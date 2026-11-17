@@ -1,0 +1,1 @@
+Upload the five gallery images into this folder using their original filenames: 17901.jpg, 17866.png, 17854.png, 17852.png, 17824.png. Do not rename files.
